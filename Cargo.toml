@@ -7,8 +7,8 @@ edition       = "2021"
 rust-version  = "1.65"
 license       = "UNLICENSED"
 homepage      = "https://larry.engineer"
-repository    = "https://github.com/steak-enjoyers/cw-sdk"
-documentation = "https://github.com/steak-enjoyers/cw-sdk#README"
+repository    = "https://github.com/steak-enjoyers/rust-template"
+documentation = "https://github.com/steak-enjoyers/rust-template#README"
 keywords      = ["template"]
 
 [dependencies]
